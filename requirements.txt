@@ -1,4 +1,0 @@
-streamlit
-pyTelegramBotAPI
-pafy
-youtube_dl
